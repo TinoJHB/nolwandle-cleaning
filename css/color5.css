@@ -1,0 +1,434 @@
+/* ==========================================================================================
+  Theme Name: Brush Sharp
+  Author: Slide sigma
+  Description: Cleaning Service HTML5 Template
+  Version: 1.0
+========================================================================================== */
+
+
+/*-------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. Color black 
+    2. Color light white
+    3. Color blue
+    4. Bg black
+    5. Bg blue
+    6. Bg light white
+    7. Border blue
+    8. Border black
+    9. Border light white
+
+-------------------------------------------------------*/
+
+
+/* ....................................
+1. Color black 
+.......................................*/
+
+.black,
+body,
+a,
+a:hover,
+.form-control,
+.email-head a,
+.main-menu-1 ul li a,
+.head-type-2.head-type-3 ul li a.active,
+.head-type-2.head-type-3 .main-menu-1 ul li a,
+.banner-3-check li h5,
+.social-icons.black li a i,
+.social-head ul li a,
+.categories li a,
+.tags-widget .tag-link,
+.pagination-type1 ul li a,
+.tags-small a,
+.blog-social li a,
+.blog-auther-social li a,
+.servvice-link-list li a {
+    color: #2E4057;
+}
+
+
+/* ....................................
+2. Color light white
+.......................................*/
+
+.light-white {
+    color: #f8f9f5;
+}
+
+
+/* ....................................
+3. Color blue
+.......................................*/
+
+a,
+.blue,
+.email-head a i,
+.main-menu-1 ul li a.active,
+.head-1-book,
+.banner-check-list li i,
+.main-slider.owl-carousel .owl-nav button i,
+.check-list li span,
+.hw-steps:after,
+.testimonial-quote .quote-blue,
+.lined-head:after,
+.lined-head:before,
+.blog-nav-icon,
+.prdt-nav-left,
+.prdt-nav-right,
+.each-blog:hover h4 a,
+.footer-links li a i,
+.social-icons.footer a:hover,
+.mean-container a.meanmenu-reveal,
+.banner-quote-form .input-white:focus+i,
+.owl-carousel.testimonial-2-slide .owl-nav button,
+.head-type-2.head-type-3 .head-1-book-call,
+.faq-boxes .card-header:hover,
+.faq-boxes .card-header h5 i,
+.social-icons.black li a:hover i,
+.owl-carousel.testimonial-3-slide .owl-nav button,
+.head-type-2.head-type-3 .main-menu-1>div>ul>li>a:hover,
+.head-type-2.head-type-3 .main-menu-1 li .submenu a:hover,
+.social-head ul li a:hover,
+.input-search+i,
+.categories li a:hover,
+.btn-filter.active,
+.btn-filter:hover,
+.check-list.type-2-c li i,
+.blue-dot-list li:before,
+.loader {
+    color: #99C24D;
+}
+
+
+/*shadow blue*/
+
+.shadow-blue,
+.testimonial-quote .quote-blue {
+    text-shadow: 0 4px 8px rgba(153, 194, 77, 0.5);
+}
+
+
+/* ....................................
+4. Bg black
+.......................................*/
+
+.bg-black,
+.btn-black,
+.footer-1[data-overlay]:before,
+.head-1-book-2,
+.slider-2[data-overlay]:before,
+.service-2-each:hover .service2-img .icon,
+.each-teams:hover .plus-btn,
+.head-type-2 .mean-container .meanmenu-reveal,
+.service-each-3:hover .btn-blue-border,
+.cta-video[data-overlay]::before,
+.owl-carousel.porfolio-slide .owl-nav .owl-prev,
+.owl-carousel.porfolio-slide .owl-nav .owl-next,
+.slider-type-blog.owl-carousel .owl-nav button.owl-next,
+.slider-type-blog.owl-carousel .owl-nav button.owl-prev,
+.shop-prdt-img:before,
+.prdt-tab .nav-link.active,
+.each-work {
+    background: #2E4057;
+}
+
+
+/*black bg opacity classes*/
+
+.bg-black-op-9 {
+    background: rgba(46, 64, 87, 0.9);
+}
+
+.bg-black-op-8 {
+    background: rgba(46, 64, 87, 0.8);
+}
+
+.bg-black-op-7 {
+    background: rgba(46, 64, 87, 0.7);
+}
+
+.bg-black-op-6 {
+    background: rgba(46, 64, 87, 0.6);
+}
+
+.bg-black-op-5 {
+    background: rgba(46, 64, 87, 0.5);
+}
+
+.bg-black-op-4 {
+    background: rgba(46, 64, 87, 0.4);
+}
+
+.bg-black-op-3 {
+    background: rgba(46, 64, 87, 0.3);
+}
+
+.bg-black-op-2 {
+    background: rgba(46, 64, 87, 0.2);
+}
+
+.bg-black-op-1 {
+    background: rgba(46, 64, 87, 0.1);
+}
+
+.bg-black-op-0 {
+    background: rgba(46, 64, 87, 0);
+}
+
+
+/* ....................................
+5. Bg blue
+.......................................*/
+
+.bg-blue,
+.head-1-book:hover,
+.btn-blue,
+.btn-blue-border:hover,
+.main-menu-1 ul li a.active:after,
+.main-slider.owl-carousel .owl-nav button:hover,
+.service-each:hover,
+.cta[data-overlay]:before,
+.hw-steps,
+.cta-callback[data-overlay]:before,
+.each-price.active[data-overlay]:before,
+.blog-nav-icon:hover,
+.prdt-nav-left:hover,
+.prdt-nav-right:hover,
+.service-nav-icon:hover,
+.team-nav-icon:hover,
+.emergency,
+.play-btn,
+.mean-container a.meanmenu-reveal span,
+.head-type-2 .main-menu-1 li .submenu,
+.team-image-part:before,
+.each-price-2:after,
+.each-price-2.active[data-overlay]::before,
+.owl-carousel.testimonial-2-slide .owl-nav button:hover,
+.blog-info-list:after,
+.count-footer[data-overlay]::before,
+.head-type-2.head-type-3 .main-menu-1.menu-2 ul li a.active:after,
+.estimate[data-overlay]::before,
+.service-each-3:hover,
+.how-work-img:after,
+.te-img-outer:after,
+.play-btn-big,
+.owl-carousel.testimonial-3-slide .owl-nav button:hover,
+.each-portfolio:before,
+.head-type-2.head-type-3 .head-1-book-call:hover,
+.bottom-head .main-menu-1>div>ul>li>a.active,
+.bottom-head .main-menu-1>div>ul>li>a:hover,
+.bottom-head .main-menu-1 li .submenu,
+.banner-type-4[data-overlay]::before,
+.features-about[data-overlay]::before,
+.blog-standared-date,
+.right-box-head h4:after,
+.categories li a span,
+.tags-widget .tag-link:hover,
+.social-profile-box:hover,
+.pagination-type1 ul li a:hover,
+.pagination-type1 ul li.active a,
+.tags-small a:hover,
+.blog-social li a:hover,
+.portfolio-overlay:before,
+.quote-service[data-overlay]::before,
+.servvice-link-list li a:hover,
+.servvice-link-list li.active a,
+.coming-soon[data-overlay]::before,
+.gallery-links .full-cover,
+.shop-prdt-img span,
+.experience li:after {
+    background: #99C24D;
+}
+
+
+/*blue bg opacity classes*/
+
+.bg-blue-op-9 {
+    background: rgba(153, 194, 77, 0.9);
+}
+
+.bg-blue-op-8 {
+    background: rgba(153, 194, 77, 0.8);
+}
+
+.bg-blue-op-7 {
+    background: rgba(153, 194, 77, 0.7);
+}
+
+.bg-blue-op-6 {
+    background: rgba(153, 194, 77, 0.6);
+}
+
+.bg-blue-op-5 {
+    background: rgba(153, 194, 77, 0.5);
+}
+
+.bg-blue-op-4 {
+    background: rgba(153, 194, 77, 0.4);
+}
+
+.bg-blue-op-3 {
+    background: rgba(153, 194, 77, 0.3);
+}
+
+.bg-blue-op-2 {
+    background: rgba(153, 194, 77, 0.2);
+}
+
+.bg-blue-op-1 {
+    background: rgba(153, 194, 77, 0.1);
+}
+
+
+/*shadow blue*/
+
+.btn-blue {
+    box-shadow: 0px 6px 10px -4px rgba(153, 194, 77, 0.53);
+}
+
+.shadow-blue {
+    box-shadow: 0 0px 13px 2px rgba(153, 194, 77, 0.48);
+}
+
+.btn-blue:hover {
+    box-shadow: 0px 11px 20px -4px rgba(153, 194, 77, 0.53);
+}
+
+.blob {
+    box-shadow: 0 0 0 0 rgb(153, 194, 77);
+    animation: pulse-blue 2s infinite;
+}
+
+@keyframes pulse-blue {
+    0% {
+        box-shadow: 0 0 0 0 rgba(153, 194, 77, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 30px rgba(153, 194, 77, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(153, 194, 77, 0);
+    }
+}
+
+@keyframes pulse-blue-small {
+    0% {
+        box-shadow: 0 0 0 0 rgba(153, 194, 77, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 15px rgba(153, 194, 77, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(153, 194, 77, 0);
+    }
+}
+
+
+/* ....................................
+6. Bg  light white
+.......................................*/
+
+.bg-light-white,
+.slider-3,
+.faq-boxes .card-header,
+.inner-banner[data-overlay]::before,
+.pagination-type1 ul li a,
+.tags-small a,
+.blog-social li a,
+.servvice-link-list li a,
+.faq-boxes.white-faq .card,
+section.error:after,
+.cart-table thead,
+.login-section .card-header,
+.prdt-detail-tab,
+.prdt-tab,
+.calculation .form-group,
+.experience li:before {
+    background: #f8f9f5;
+}
+
+
+/* ....................................
+7. Border Blue
+.......................................*/
+
+.border-blue,
+.head-1-book,
+.btn-blue-border,
+.main-slider.owl-carousel .owl-nav button,
+.check-list li span,
+.why-video,
+.blog-nav-icon,
+.prdt-nav-left,
+.prdt-nav-right,
+.owl-carousel.testimonial-2-slide .owl-nav button,
+.head-type-2.head-type-3 .head-1-book-call,
+.how-work-img,
+.faq-boxes .card-header:hover,
+.owl-carousel.testimonial-3-slide .owl-nav button,
+.social-profile-box,
+.btn-filter.active,
+.btn-filter:hover,
+.partner:hover .partner-logo,
+.calculation .input-white,
+.book-service .input-white,
+.each-work:before {
+    border-color: #99C24D;
+}
+
+
+/*border bottom*/
+
+.link-line,
+.cart-table thead tr th,
+.login-section .card {
+    border-bottom-color: #99C24D;
+}
+
+
+/*border left*/
+
+.link-line,
+.how-work-img:before,
+.servvice-link-list li a:hover:after,
+.servvice-link-list li.active a:after {
+    border-left-color: #99C24D;
+}
+
+
+/*border top*/
+
+.partner:hover .partner-logo:after {
+    border-top-color: #99C24D;
+}
+
+
+/* ....................................
+8. Border black
+.......................................*/
+
+.border-black {
+    border-color: #2E4057;
+}
+
+
+/* ....................................
+9. Border light white
+.......................................*/
+
+.border-black,
+.team-image-part,
+.faq-boxes .card-header,
+.blog-standared-content,
+.light-border,
+.partner-logo {
+    border-color: #f8f9f5;
+}
+
+.partner-logo:after {
+    border-top-color: #f8f9f5;
+}
